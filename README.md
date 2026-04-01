@@ -1,10 +1,10 @@
-📊 Business Operations & Service Performance Dashboard
+# 📊 Business Operations & Service Performance Dashboard
 
 Venkata Nikhil Sai Gummadi
 📞 +1 623 999 7076
 📧 vnsgummadi@gmail.com
 
-🔍 Overview
+# 🔍 Overview
 
 This project is a business-focused Power BI dashboard designed to analyze and monitor operational performance in a service-based organization.
 
@@ -18,11 +18,11 @@ Profit contribution
 Business unit comparison
 Technician-level productivity
 Operational-level insights
-🗂️ Dataset
+# 🗂️ Dataset
 
 The dashboard is built using a public technician and service performance dataset, adapted to simulate a real-world service operations environment.
 
-📌 Business Scenario
+# 📌 Business Scenario
 
 The dataset represents a company providing household and field services, where technicians perform tasks such as:
 
@@ -33,7 +33,7 @@ Customer service requests
 
 Technicians operate across multiple business units, and the dataset tracks their performance over time.
 
-📊 Key Data Fields
+# 📊 Key Data Fields
 Date / Week Beginning
 Business Unit
 Technician
@@ -46,7 +46,7 @@ Performance Notes
 
 This structure allows for realistic analysis of productivity, efficiency, and profitability.
 
-🎯 Dashboard Objectives
+# 🎯 Dashboard Objectives
 
 The dashboard is designed to answer critical business questions such as:
 
@@ -69,7 +69,7 @@ Average Booking Rate
 Indicates consistency in booking service work
 Active Technicians
 Number of technicians contributing within the selected view
-📊 Dashboard Visuals
+# 📊 Dashboard Visuals
 Gross Profit Trend by Week
 Tracks profit performance over time
 Jobs Completed by Business Unit
@@ -87,7 +87,7 @@ Jobs Completed
 Gross Profit
 Close Rate
 Booking Rate
-🚀 Value & Impact
+# 🚀 Value & Impact
 
 This dashboard demonstrates the ability to:
 
@@ -100,7 +100,7 @@ Power BI
 Data Modeling
 Data Visualization
 KPI Design & Business Analysis
-💡 Future Enhancements
+# 💡 Future Enhancements
 Add forecasting for profit and job volume
 Introduce anomaly detection for performance dips
 Build technician performance scoring models
